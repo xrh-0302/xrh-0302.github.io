@@ -102,4 +102,4 @@ theme: matery
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git repository:git@github.com:xrh-0302/xrh-0302.github.io.git branch: master
+  type: git repository:git@github.com:xrh-0302/xrh-0302.github.io.git branch:main
